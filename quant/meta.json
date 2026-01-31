@@ -1,0 +1,11 @@
+[{
+    "title": "Next.js (Static Export)",
+    "url": "/deploy/step-one?template=ssg-nextjs",
+    "summary": "Next.js static site with React Server Components and App Router.",
+    "content": "Build blazing-fast static sites with Next.js 14. Uses static export mode with the App Router and React Server Components. Perfect for marketing sites, blogs, and documentation.",
+    "image": "https://raw.githubusercontent.com/quantcdn-templates/ssg-nextjs/main/quant/screenshot.png",
+    "categories": ["javascript", "nextjs", "react"],
+    "tags": ["nextjs", "react", "static", "ssg"],
+    "template_type": "ssg",
+    "requires_db": false
+}]
